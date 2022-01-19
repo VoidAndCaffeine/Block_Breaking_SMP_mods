@@ -24,13 +24,11 @@
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 
-
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
   <a href="https://github.com/VoidAndCaffeine/Block_Breaking_SMP_mods/">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/logo.png" alt="Logo" width="554" height="270">
   </a>
 
 <h3 align="center">Mods for Block Breaking SMP</h3>
