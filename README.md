@@ -34,7 +34,7 @@
 <h3 align="center">Mods for Block Breaking SMP</h3>
 
   <p align="center">
-    A quick and easy place to get your mods, I personaly will be using all of these as this Git links to my .minecraft folder, I will stay as up to date on my  mods as possible :)
+    A quick and easy place to get your mods. I personaly will be using all of these as this Git links to my .minecraft folder. I will stay as up to date on my  mods as possible. :)
     <br />
     <a href="https://github.com/VoidAndCaffeine/Block_Breaking_SMP_mods/issues">Report Bug</a>
     ·
@@ -46,20 +46,12 @@
 
 <br />
 
-<!-- GETTING STARTED -->
-## Getting Started
-
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
-<br />
-
 ### Prerequisites
 
 Basic fimiliarity with your OS and Minecraft be it Windows, OSX (apple/mac), or Linux
 
-This inclueds:
-* Knowing where .minecraft is, here are the default locations, if you use a custom launcher it is up to you
+This includes:
+* Knowing where .minecraft is, here are the default locations. If you use a custom launcher it is up to you.
     + Windows
     ```sh
     %APPDATA%\.minecraft\
@@ -87,7 +79,7 @@ This inclueds:
 
 
 2. Unzip the file
-    + Usually doubble click and follow the prompts
+    + Usually double click and follow the prompts
 
 
 4. Copy the files to .minecraft
@@ -105,7 +97,7 @@ This inclueds:
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-It is kinda important that you use my configs, I have changed a few from their default settings to give yall a better out of the box experence (one of the mods had a donation request popup on the main menu that I dissabled)
+It is kinda important that you use my config. I have changed a few from their default settings to give yall a better out of the box experence. (one of the mods had a donation request popup on the main menu that I dissabled)
 
 If you run into any problem please open an issue, it is the best way to keep me organized and so that other people can see your problem and learn from it if they are having the same problem.
 
