@@ -104,54 +104,54 @@ If you run into any problem please open an issue, it is the best way to keep me 
 <br />
 
 <!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
+## Mods
 
-Mod Links will be here when I feel organized enough to do them if someone wants to do them and shoot me a pr that would be amazing
+Please Ignore any spelling/grammar errors her my brain is dead
 
 * [Skin Layers 3D](https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d)     License: MIT
     + Makes skins 3D rather than 2 2D layers, Im iffy on this one and usually have it dissabled.
 * [Better Third Person](https://www.curseforge.com/minecraft/mc-mods/better-third-person)     License: All Rights Reserved
-    + Allows for better camera movement in 3rd person, definately cool
+    + Allows for better camera movement in 3rd person, definately cool.
 * [Craft Presence](https://www.curseforge.com/minecraft/mc-mods/craftpresence)    Lisence: MIT
-    + Discord rich presence, whats not to love :p 
+    + Discord rich presence, whats not to love :p.
 * [NoFog](https://www.curseforge.com/minecraft/mc-mods/nofog)     License: All Rights Reserved
-    + Dissables world fog, highly configurable, necicary if you are spending lots of time on the Nether roof
+    + Dissables world fog, highly configurable, necicary if you are spending lots of time on the Nether roof.
 * [AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin)    License: Public Domain (now that is an oddity, cool)
-    + Shows your saturation level as a gold border arround your hunger
+    + Shows your saturation level as a gold border arround your hunger.
 * [Bobby](https://www.curseforge.com/minecraft/mc-mods/bobby)    License: GNU GPL v3
-    + Allows for render distances higher than what the server is configured for by cacheing chunks
+    + Allows for render distances higher than what the server is configured for by cacheing chunks.
 * [Chat Heads](https://www.curseforge.com/minecraft/mc-mods/chat-heads)    License: Mozilla Public License v2
-    + Ads players heads next to their name when they write in chat
+    + Ads players heads next to their name when they write in chat.
 * [Clear Skies](https://www.curseforge.com/minecraft/mc-mods/clear-skies)    License: GNU GPL v3
-    + removes the light layer of the skybox arround the horizion
+    + removes the light layer of the skybox arround the horizion.
 * [Cloth Config API](https://www.curseforge.com/minecraft/mc-mods/cloth-config/files)    License: GNU GPL v3
-    + api mod
+    + api mod.
 * [Continuity](https://www.curseforge.com/minecraft/mc-mods/continuity)    License: GNU GPL v3
-    + Allows for Optifine connected textures with sodium
+    + Allows for Optifine connected textures with sodium.
 * [Fabric Api](https://www.curseforge.com/minecraft/mc-mods/fabric-api)     License: Apache v2
-    + another api mod
+    + another api mod.
 * [Falling Leaves](https://www.curseforge.com/minecraft/mc-mods/falling-leaves-fabric)    License: [Custom License](https://www.curseforge.com/project/417510/license) (another interesting oddity)
     + Adds leafs that fall from trees.
 * [Illuminations](https://www.curseforge.com/minecraft/mc-mods/illuminations)    License: GNU GPL v3
-    + adds fireflies and other light ambiance. also has pride 🏳️‍🌈 pet things for free (other donation rewards, see the site)
+    + adds fireflies and other light ambiance. also has pride 🏳️‍🌈 pet things for free (other donation rewards, see the site).
 * [Indium](https://www.curseforge.com/minecraft/mc-mods/indium)    License: Apache v2
-    + api mod
+    + api mod.
 * [Iris Shaders](https://www.curseforge.com/minecraft/mc-mods/irisshaders)    License: GNU GPL v3
-    + ennables shaders with sodium
+    + ennables shaders with sodium.
 * [Mod Menu](https://www.curseforge.com/minecraft/mc-mods/modmenu)    License: MIT
-    + Ads a mod menu cause fabric dosent have one built in
+    + Ads a mod menu cause fabric dosent have one built in.
 * [Mouse Wheelie](https://www.curseforge.com/minecraft/mc-mods/mouse-wheelie)    License: Apache v2
-    + adds some cool mouse wheel shortcuts for inventory management, check the forge page
+    + adds some cool mouse wheel shortcuts for inventory management, check the forge page.
 * [Not Enough Animations](https://www.curseforge.com/minecraft/mc-mods/not-enough-animations)    License: MIT
-    + adds some extra player animations, nice to have
+    + adds some extra player animations, nice to have.
 * [Ok Zoomer](https://www.curseforge.com/minecraft/mc-mods/ok-zoomer)    License: MIT
-    + Ennables OptiFine zoom, Basicly required
+    + Ennables OptiFine zoom, Basicly required.
 * [Replay Mod](https://github.com/ReplayMod/ReplayMod)    License: GNU GPL v3
-    + I'm sure yall dont need me to explain this one. This one mod causes an astonishing amount of problems tho lol
+    + I'm sure yall dont need me to explain this one. This one mod causes an astonishing amount of problems tho lol.
 * [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium)    License: GNU GPL v3
-    + Godly performance mod, 60fps to 300fps
+    + Godly performance mod, 60fps to 300fps.
 * [sound Physics Remasterd](https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered)    License: GNU GPL v3
-    + adds an interesting reverb/echo in caves immersive
+    + Adds an interesting reverb/echo in caves, immersive.
 * [Simple Voice Chat](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat)    License: All Rights Reserved (the source is public tho interestingly enough)
     + In game voice chat, its probably the most important mod
 <!--* []()    License:-->
