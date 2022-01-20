@@ -41,3 +41,9 @@ usercache.json
 dashloader-cache
 mods/bobby-3.1.0.jar
 mods/lambdynamiclights-2.1.0+1.17.jar
+config/fabric/
+config/indium-renderer.properties
+config/iris.properties
+config/sound_physics_remastered/occlusion.properties
+config/voicechat/
+config/craftpresence.properties
