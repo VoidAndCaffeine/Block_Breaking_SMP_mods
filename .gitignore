@@ -39,3 +39,11 @@ replay_recordings/
 servers.dat
 servers.dat_old
 vanguard-uninstaller.log
+config/fabric/indigo-renderer.properties
+config/indium-renderer.properties
+config/iris.properties
+config/sound_physics_remastered/occlusion.properties
+config/sound_physics_remastered/reflectivity.properties
+config/sound_physics_remastered/soundphysics.properties
+config/voicechat/voicechat-server.properties
+usercache.json
