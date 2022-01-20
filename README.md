@@ -146,20 +146,20 @@ Please Ignore any spelling/grammar errors her my brain is dead
     + another api mod.
 * [Falling Leaves](https://www.curseforge.com/minecraft/mc-mods/falling-leaves-fabric)    License: [Custom License](https://www.curseforge.com/project/417510/license) (another interesting oddity)
     + Adds leafs that fall from trees.
-* [Ferrite Core](https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric)    License: 
-    + Adds 
+* [Ferrite Core](https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric)    License: MIT
+    + Optimizes memmory usage
 * [Illuminations](https://www.curseforge.com/minecraft/mc-mods/illuminations)    License: GNU GPL v3
     + adds fireflies and other light ambiance. also has pride 🏳️‍🌈 pet things for free (other donation rewards, see the site).
 * [Indium](https://www.curseforge.com/minecraft/mc-mods/indium)    License: Apache v2
     + api mod.
 * [Iris Shaders](https://www.curseforge.com/minecraft/mc-mods/irisshaders)    License: GNU GPL v3
     + ennables shaders with sodium.
-* [krypton]()    License: 
-    + Adds 
-* [Lamb Dynamic Lights]()    License: 
-    + Adds 
-* [lazy DFU]()    License: 
-    + Adds 
+* [krypton](https://www.curseforge.com/minecraft/mc-mods/krypton)    License: GNU GPL v3
+    + Optimizes networks connections and fixes some security vulnerablilites. should help with the random disconnections
+* [LambDynamicLights](https://www.curseforge.com/minecraft/mc-mods/lambdynamiclights)    License: MIT
+    + Adds dynamic lighting when holding light sources, ie. torches. DO NOT WRITE THE NAME WITH SPACES. idk why but thats what the forge page says 🤷
+* [lazy DFU](https://www.curseforge.com/minecraft/mc-mods/lazydfu)    License: MIT
+    + Optimizes game start, it delays the code that updates worlds from older versions to only start when needed. This means that loading old worlds is slower, but loading servers and new worlds are much quicker.
 * [Mod Menu](https://www.curseforge.com/minecraft/mc-mods/modmenu)    License: MIT
     + Ads a mod menu cause fabric dosent have one built in.
 * [Mouse Wheelie](https://www.curseforge.com/minecraft/mc-mods/mouse-wheelie)    License: Apache v2
@@ -170,8 +170,8 @@ Please Ignore any spelling/grammar errors her my brain is dead
     + Ennables OptiFine zoom, Basicly required.
 * [Replay Mod](https://github.com/ReplayMod/ReplayMod)    License: GNU GPL v3
     + I'm sure yall dont need me to explain this one. This one mod causes an astonishing amount of problems tho lol.
-* [Sodium Extra]()    License: 
-    + Adds 
+* [Sodium Extra](https://www.curseforge.com/minecraft/mc-mods/sodium-extra)    License: GNU GPL v3
+    + Adds extra sodium config options to bring optifines "eye candy" fetures to fabric.
 * [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium)    License: GNU GPL v3
     + Godly performance mod, 60fps to 300fps.
 * [sound Physics Remasterd](https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered)    License: GNU GPL v3
