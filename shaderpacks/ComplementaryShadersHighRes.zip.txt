@@ -1,4 +1,4 @@
-#Tue Jan 18 21:30:13 AKST 2022
+#Wed Jan 19 22:42:16 AKST 2022
 COLORED_SHADOWS=true
 shadowDistance=256.0
 AO_QUALITY=2
