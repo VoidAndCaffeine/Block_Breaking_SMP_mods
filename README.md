@@ -118,8 +118,12 @@ Please Ignore any spelling/grammar errors her my brain is dead
     + Allows for better camera movement in 3rd person, definately cool.
 * [Craft Presence](https://www.curseforge.com/minecraft/mc-mods/craftpresence)    Lisence: MIT
     + Discord rich presence, whats not to love :p.
+* [CIT Resewn](https://www.curseforge.com/minecraft/mc-mods/cit-resewn)    License: MIT
+    + Adds extra texture pack support
 * [NoFog](https://www.curseforge.com/minecraft/mc-mods/nofog)     License: All Rights Reserved
     + Dissables world fog, highly configurable, necicary if you are spending lots of time on the Nether roof.
+* [Animatica](https://www.curseforge.com/minecraft/mc-mods/animatica)    License: GNU GPL v2
+    + Adds extra animated texture pack support
 * [AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin)    License: Public Domain (now that is an oddity, cool)
     + Shows your saturation level as a gold border arround your hunger.
 * [Bobby](https://www.curseforge.com/minecraft/mc-mods/bobby)    License: GNU GPL v3
@@ -132,16 +136,30 @@ Please Ignore any spelling/grammar errors her my brain is dead
     + api mod.
 * [Continuity](https://www.curseforge.com/minecraft/mc-mods/continuity)    License: GNU GPL v3
     + Allows for Optifine connected textures with sodium.
+* [Cull Leaves](https://www.curseforge.com/minecraft/mc-mods/cull-leaves)    License: MIT
+    + Optimizes leaf rendering, makes trees look kinda auful without the better leaves resource pack
+* [Dashloader](https://www.curseforge.com/minecraft/mc-mods/dashloader)    License: GNU GPL v3
+    + Cashes the minecraft startup process on first launch, on the second and all after it is astonishingly quick to start.
+* [Enhanced Block Entities](https://www.curseforge.com/minecraft/mc-mods/enhanced-block-entities)    License: GNU GPL v3
+    + Fixes the rendering of block entities (signs, chests, barrels, shulkers) so that they render like normal blocks. Also fixes the glow ink bug.
 * [Fabric Api](https://www.curseforge.com/minecraft/mc-mods/fabric-api)     License: Apache v2
     + another api mod.
 * [Falling Leaves](https://www.curseforge.com/minecraft/mc-mods/falling-leaves-fabric)    License: [Custom License](https://www.curseforge.com/project/417510/license) (another interesting oddity)
     + Adds leafs that fall from trees.
+* [Ferrite Core](https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric)    License: 
+    + Adds 
 * [Illuminations](https://www.curseforge.com/minecraft/mc-mods/illuminations)    License: GNU GPL v3
     + adds fireflies and other light ambiance. also has pride 🏳️‍🌈 pet things for free (other donation rewards, see the site).
 * [Indium](https://www.curseforge.com/minecraft/mc-mods/indium)    License: Apache v2
     + api mod.
 * [Iris Shaders](https://www.curseforge.com/minecraft/mc-mods/irisshaders)    License: GNU GPL v3
     + ennables shaders with sodium.
+* [krypton]()    License: 
+    + Adds 
+* [Lamb Dynamic Lights]()    License: 
+    + Adds 
+* [lazy DFU]()    License: 
+    + Adds 
 * [Mod Menu](https://www.curseforge.com/minecraft/mc-mods/modmenu)    License: MIT
     + Ads a mod menu cause fabric dosent have one built in.
 * [Mouse Wheelie](https://www.curseforge.com/minecraft/mc-mods/mouse-wheelie)    License: Apache v2
@@ -152,13 +170,16 @@ Please Ignore any spelling/grammar errors her my brain is dead
     + Ennables OptiFine zoom, Basicly required.
 * [Replay Mod](https://github.com/ReplayMod/ReplayMod)    License: GNU GPL v3
     + I'm sure yall dont need me to explain this one. This one mod causes an astonishing amount of problems tho lol.
+* [Sodium Extra]()    License: 
+    + Adds 
 * [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium)    License: GNU GPL v3
     + Godly performance mod, 60fps to 300fps.
 * [sound Physics Remasterd](https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered)    License: GNU GPL v3
     + Adds an interesting reverb/echo in caves, immersive.
 * [Simple Voice Chat](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat)    License: All Rights Reserved (the source is public tho interestingly enough)
     + In game voice chat, its probably the most important mod
-<!--* []()    License:-->
+<!--* []()    License: 
+    + Adds -->
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
