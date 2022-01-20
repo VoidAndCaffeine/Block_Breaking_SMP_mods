@@ -36,39 +36,23 @@
   <p align="center">
     A quick and easy place to get your mods, I personaly will be using all of these as this Git links to my .minecraft folder, I will stay as up to date on my  mods as possible :)
     <br />
-    <a href="https://github.com/VoidAndCaffeine/Block_Breaking_SMP_mods/"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
     <a href="https://github.com/VoidAndCaffeine/Block_Breaking_SMP_mods/issues">Report Bug</a>
     ·
     <a href="https://github.com/VoidAndCaffeine/Block_Breaking_SMP_mods/issues">Request Feature</a>
+    <br />
+    <br />
   </p>
 </div>
 
-
-
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
-</details>
+<br />
 
 <!-- GETTING STARTED -->
 ## Getting Started
 
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
+
+<br />
 
 ### Prerequisites
 
@@ -91,6 +75,8 @@ This inclueds:
 * The ability to unzip a file
 * The ability to follow directions
 
+<br />
+
 ### Installation
 
 1. Download this repository
@@ -112,7 +98,9 @@ This inclueds:
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
+<br />
+<br />
+<br />
 
 <!-- USAGE EXAMPLES -->
 ## Usage
@@ -123,6 +111,9 @@ If you run into any problem please open an issue, it is the best way to keep me 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+<br />
+<br />
+<br />
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
