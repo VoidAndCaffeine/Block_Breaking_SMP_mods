@@ -108,9 +108,31 @@ If you run into any problem please open an issue, it is the best way to keep me 
 
 Mod Links will be here when I feel organized enough to do them if someone wants to do them and shoot me a pr that would be amazing
 
-* []()
-* []()
-* []()
+* [Skin Layers 3D](https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d)     License: MIT
+* [Better Third Person](https://www.curseforge.com/minecraft/mc-mods/better-third-person)     License: All Rights Reserved
+* [Craft Presence](https://www.curseforge.com/minecraft/mc-mods/craftpresence)    Lisence: MIT
+* [NoFog](https://www.curseforge.com/minecraft/mc-mods/nofog)     License: All Rights Reserved
+* [AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin)    License: Public Domain (now that is an oddity, cool)
+* [Bobby](https://www.curseforge.com/minecraft/mc-mods/bobby)    License: GNU GPL v3
+* [Chat Heads](https://www.curseforge.com/minecraft/mc-mods/chat-heads)    License: Mozilla Public License v2
+* [Clear Skies](https://www.curseforge.com/minecraft/mc-mods/clear-skies)    License: GNU GPL v3
+* [Cloth Config API](https://www.curseforge.com/minecraft/mc-mods/cloth-config/files)    License: GNU GPL v3
+* [Continuity](https://www.curseforge.com/minecraft/mc-mods/continuity)    License: GNU GPL v3
+* [Fabric Api](https://www.curseforge.com/minecraft/mc-mods/fabric-api)     License: Apache v2
+* [Falling Leaves](https://www.curseforge.com/minecraft/mc-mods/falling-leaves-fabric)    License: [Custom License](https://www.curseforge.com/project/417510/license) (another interesting oddity)
+* [Illuminations](https://www.curseforge.com/minecraft/mc-mods/illuminations)    License: GNU GPL v3
+* [Indium](https://www.curseforge.com/minecraft/mc-mods/indium)    License: Apache v2
+* [Iris Shaders](https://www.curseforge.com/minecraft/mc-mods/irisshaders)    License: GNU GPL v3
+* [Mod Menu](https://www.curseforge.com/minecraft/mc-mods/modmenu)    License: MIT
+* [Mouse Wheelie](https://www.curseforge.com/minecraft/mc-mods/mouse-wheelie)    License: Apache v2
+* [Not Enough Animations](https://www.curseforge.com/minecraft/mc-mods/not-enough-animations)    License: MIT
+* [Ok Zoomer](https://www.curseforge.com/minecraft/mc-mods/ok-zoomer)    License: MIT
+* [Replay Mod](https://github.com/ReplayMod/ReplayMod)    License: GNU GPL v3
+* [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium)    License: GNU GPL v3
+* [sound Physics Remasterd](https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered)    License: GNU GPL v3
+* [Simple Voice Chat](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat)    License: All Rights Reserved (the source is public tho interestingly enough)
+<!--* []()    License:-->
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
