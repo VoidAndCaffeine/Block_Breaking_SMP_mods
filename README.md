@@ -85,6 +85,7 @@ This includes:
 4. Copy the files to .minecraft
     + Open the decompressed file and select the mods and config folders
       * If you are on Windows, also select the 3 FFMPEG .exe files
+    + copy the selected files
     + Now go to your .minecraft folder, ctrl+v to paste, overwrite the files if asked
 
 <br />
