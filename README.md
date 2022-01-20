@@ -69,7 +69,7 @@ This includes:
 
 Technecal prerequisite
 
-* Fabric version 12.12.0 you can download the updater at https://fabricmc.net/use/installer/
+* Fabric version 1.12.12 you can download the updater at https://fabricmc.net/use/installer/
 
 <br />
 
