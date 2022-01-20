@@ -87,9 +87,6 @@ This includes:
       * If you are on Windows, also select the 3 FFMPEG .exe files
     + Now go to your .minecraft folder, ctrl+v to paste, overwrite the files if asked
 
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 <br />
 <br />
 <br />
@@ -100,8 +97,6 @@ This includes:
 It is kinda important that you use my config. I have changed a few from their default settings to give yall a better out of the box experence. (one of the mods had a donation request popup on the main menu that I dissabled)
 
 If you run into any problem please open an issue, it is the best way to keep me organized and so that other people can see your problem and learn from it if they are having the same problem.
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 <br />
 <br />
