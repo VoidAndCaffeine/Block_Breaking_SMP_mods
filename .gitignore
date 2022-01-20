@@ -1,0 +1,16 @@
+bootstrap_log.txt
+	launcher/
+	launcher_accounts.json
+	launcher_cef_log.txt
+	launcher_entitlements.json
+	launcher_gamer_pics.json
+	launcher_log.txt
+	launcher_msa_credentials.bin
+	launcher_profiles.json
+	launcher_settings.json
+	launcher_ui_state.json
+	treatment_tags.json
+	versions/
+	webcache2/
+	window_settings_launcher.conf
+	window_settings_xal_login.conf
