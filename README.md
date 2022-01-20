@@ -34,7 +34,7 @@
 <h3 align="center">Mods for Block Breaking SMP</h3>
 
   <p align="center">
-    A quick and easy place to get your mods. I personaly will be using all of these as this Git links to my .minecraft folder. I will stay as up to date on my  mods as possible. :)
+    A quick and easy place to get your mods. I personaly will be using all of these as this Git links to my .minecraft folder. I will stay as up to date to my personal mods as possible. :)
     <br />
     <a href="https://github.com/VoidAndCaffeine/Block_Breaking_SMP_mods/issues">Report Bug</a>
     ·
