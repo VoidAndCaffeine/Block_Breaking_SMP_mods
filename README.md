@@ -118,6 +118,10 @@ Please Ignore any spelling/grammar errors her my brain is dead
     + Allows for better camera movement in 3rd person, definately cool.
 * [Craft Presence](https://www.curseforge.com/minecraft/mc-mods/craftpresence)    Lisence: MIT
     + Discord rich presence, whats not to love :p.
+* [DeathShot](https://github.com/MenschenToaster/DeathShot/releases)    License: MIT
+    + Automaticly screenshots your deathscreen to make it easier to find your death location.
+* [Durability Notifier](https://www.curseforge.com/minecraft/mc-mods/durability-notifier)    License: MIT
+    + Like the Duraping Datapack but with some extra configurations and running client side.
 * [CIT Resewn](https://www.curseforge.com/minecraft/mc-mods/cit-resewn)    License: MIT
     + Adds extra texture pack support
 * [NoFog](https://www.curseforge.com/minecraft/mc-mods/nofog)     License: All Rights Reserved
