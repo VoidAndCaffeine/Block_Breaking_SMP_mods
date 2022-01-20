@@ -67,6 +67,10 @@ This includes:
 * The ability to unzip a file
 * The ability to follow directions
 
+Technecal prerequisite
+
+* Fabric version 12.12.0 you can download the updater at https://fabricmc.net/use/installer/
+
 <br />
 
 ### Installation
