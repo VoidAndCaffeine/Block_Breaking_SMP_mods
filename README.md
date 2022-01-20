@@ -38,7 +38,7 @@
     <br />
     <a href="https://github.com/VoidAndCaffeine/Block_Breaking_SMP_mods/issues">Report Bug</a>
     ·
-    <a href="https://github.com/VoidAndCaffeine/Block_Breaking_SMP_mods/issues">Request Feature</a>
+    <a href="https://github.com/VoidAndCaffeine/Block_Breaking_SMP_mods/issues">Request A Mod</a>
     <br />
     <br />
   </p>
