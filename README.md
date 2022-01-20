@@ -52,12 +52,6 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
@@ -65,41 +59,10 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
-
-
-
-<!-- ABOUT THE PROJECT -->
-## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email`, `email_client`, `project_title`, `project_description`
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-### Built With
-
-* [Next.js](https://nextjs.org/)
-* [React.js](https://reactjs.org/)
-* [Vue.js](https://vuejs.org/)
-* [Angular](https://angular.io/)
-* [Svelte](https://svelte.dev/)
-* [Laravel](https://laravel.com)
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -109,27 +72,43 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+Basic fimiliarity with your OS and Minecraft be it Windows, OSX (apple/mac), or Linux
+
+This inclueds:
+* Knowing where .minecraft is, here are the default locations, if you use a custom launcher it is up to you
+    + Windows
+    ```sh
+    %APPDATA%\.minecraft\
+    ```
+    + OSX
+    ```sh
+    ~/Library/Application Support/minecraft/
+    ```
+    + Linux
+    ```sh
+    ~/.minecraft/
+    ```
+* The ability to unzip a file
+* The ability to follow directions
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/VoidAndCaffeine/Block_Breaking_SMP_mods.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
+1. Download this repository
+    + See the green button that says code?
+      * It is in the upper right, below the bar that has code, issues, pull requests, projects, wiki...
+    + Click on it, there should be a dropdown window
+    + Click on Download zip
+
+
+2. Unzip the file
+    + Usually doubble click and follow the prompts
+
+
+4. Copy the files to .minecraft
+    + Open the decompressed file and select the mods and config folders
+      * If you are on Windows, also select the 3 FFMPEG .exe files
+    + Now go to your .minecraft folder, ctrl+v to paste, overwrite the files if asked
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -138,68 +117,17 @@ This is an example of how to list things you need to use the software and how to
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+It is kinda important that you use my configs, I have changed a few from their default settings to give yall a better out of the box experence (one of the mods had a donation request popup on the main menu that I dissabled)
 
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-- [] Feature 1
-- [] Feature 2
-- [] Feature 3
-    - [] Nested Feature
-
-See the [open issues](https://github.com/VoidAndCaffeine/Block_Breaking_SMP_mods/issues) for a full list of proposed features (and known issues).
+If you run into any problem please open an issue, it is the best way to keep me organized and so that other people can see your problem and learn from it if they are having the same problem.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- LICENSE -->
-## License
-
-Distributed under the GPL V2 License. See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- CONTACT -->
-## Contact
-
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
-
-Project Link: [https://github.com/VoidAndCaffeine/Block_Breaking_SMP_mods](https://github.com/VoidAndCaffeine/Block_Breaking_SMP_mods)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
+
+Mod Links will be here when I feel organized enough to do them if someone wants to do them and shoot me a pr that would be amazing
 
 * []()
 * []()
