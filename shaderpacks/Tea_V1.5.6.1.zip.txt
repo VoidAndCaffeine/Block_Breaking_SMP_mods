@@ -1,0 +1,4 @@
+#Thu Jan 20 20:01:56 AKST 2022
+NFOG=false
+waterWaveSpeed=0.20
+waterWaveIntensity=0.30
