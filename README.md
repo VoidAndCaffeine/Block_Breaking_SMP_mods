@@ -110,7 +110,7 @@ If you run into any problem please open an issue, it is the best way to keep me 
 <!-- ACKNOWLEDGMENTS -->
 ## Mods
 
-Please Ignore any spelling/grammar errors her my brain is dead
+Please Ignore any spelling/grammar errors here my brain is dead
 
 * [Skin Layers 3D](https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d)     License: MIT
     + Makes skins 3D rather than 2 2D layers, Im iffy on this one and usually have it dissabled.
@@ -131,7 +131,7 @@ Please Ignore any spelling/grammar errors her my brain is dead
 * [AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin)    License: Public Domain (now that is an oddity, cool)
     + Shows your saturation level as a gold border arround your hunger.
 * [Bobby](https://www.curseforge.com/minecraft/mc-mods/bobby)    License: GNU GPL v3
-    + Allows for render distances higher than what the server is configured for by cacheing chunks.
+    + Allows for render distances higher than what the server is configured for by cacheing chunks. Dissabled by default for performance reasons.
 * [Chat Heads](https://www.curseforge.com/minecraft/mc-mods/chat-heads)    License: Mozilla Public License v2
     + Ads players heads next to their name when they write in chat.
 * [Clear Skies](https://www.curseforge.com/minecraft/mc-mods/clear-skies)    License: GNU GPL v3
@@ -161,7 +161,7 @@ Please Ignore any spelling/grammar errors her my brain is dead
 * [krypton](https://www.curseforge.com/minecraft/mc-mods/krypton)    License: GNU GPL v3
     + Optimizes networks connections and fixes some security vulnerablilites. should help with the random disconnections
 * [LambDynamicLights](https://www.curseforge.com/minecraft/mc-mods/lambdynamiclights)    License: MIT
-    + Adds dynamic lighting when holding light sources, ie. torches. DO NOT WRITE THE NAME WITH SPACES. idk why but thats what the forge page says 🤷
+    + Adds dynamic lighting when holding light sources, ie. torches. DO NOT WRITE THE NAME WITH SPACES. idk why but thats what the forge page says 🤷 Dissabled by default for performance reasons.
 * [lazy DFU](https://www.curseforge.com/minecraft/mc-mods/lazydfu)    License: MIT
     + Optimizes game start, it delays the code that updates worlds from older versions to only start when needed. This means that loading old worlds is slower, but loading servers and new worlds are much quicker.
 * [Mod Menu](https://www.curseforge.com/minecraft/mc-mods/modmenu)    License: MIT
@@ -185,10 +185,31 @@ Please Ignore any spelling/grammar errors her my brain is dead
 <!--* []()    License: 
     + Adds -->
 
+<!-- ACKNOWLEDGMENTS -->
+## Resource Packs
+
+I will not be leaving discriptions for these, go look at the link. :)
+
+* [Better Leaves](https://www.curseforge.com/minecraft/texture-packs/motschens-better-leaves)
+* [Stay True](https://www.curseforge.com/minecraft/texture-packs/stay-true)
+* [Vanilla Tweaks](https://vanillatweaks.net/picker/resource-packs/)
+* [Biome Blocks](https://www.planetminecraft.com/texture-pack/biome-blocks-biome-variation/)
+* [Dynamic Mobs](https://www.planetminecraft.com/texture-pack/more-mob-variants/)
+* [Golem's Family](https://www.planetminecraft.com/texture-pack/golem-s-family/)
+* [Trapped in Fall](https://www.planetminecraft.com/texture-pack/trapped-in-fall/)
+
+## Shaders
+
+I will not be leaving discriptions for these, go look at the link. :)
+
+* [Complementary Shaders](https://www.curseforge.com/minecraft/customization/complementary-shaders)
+* [BSL Shaders](https://bitslablab.com/bslshaders/)
+* [Tea Shaders](https://www.curseforge.com/minecraft/customization/beyondbelief-vanilla-reborn)
+* [SEUS Renewed](https://www.sonicether.com/seus/#downloads)
+* [Sildurs Vibrant](https://www.curseforge.com/minecraft/customization/sildurs-vibrant-shaders)
+* [Sildurs Enhanced Default](https://www.curseforge.com/minecraft/customization/sildurs-enhanced-default)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
