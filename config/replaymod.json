@@ -6,9 +6,9 @@
     "recordingPath": "./replay_recordings/",
     "cachePath": "./.replay_cache/",
     "renderPath": "./replay_videos/",
-    "skipPostRenderGui": false,
+    "skipPostRenderGui": true,
     "askForOpenEye": true,
-    "skipPostScreenshotGui": false,
+    "skipPostScreenshotGui": true,
     "fullBrightness": "replaymod.gui.settings.fullbrightness.gamma",
     "fullBrightness_valid_values": [
       "replaymod.gui.settings.fullbrightness.gamma",
@@ -52,7 +52,7 @@
     "frameTimeFromWorldTime": false
   },
   "simplepathing": {
-    "pathpreview": true,
+    "pathpreview": false,
     "autosync": true,
     "timelineLength": 1800,
     "interpolator": "replaymod.gui.editkeyframe.interpolator.catmullrom.name",

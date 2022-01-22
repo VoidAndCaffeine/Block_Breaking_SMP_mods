@@ -11,7 +11,7 @@
   "dimensionToggles": {
     "minecraft:overworld": {
       "skyFog": "TRUE",
-      "terrainFog": "TRUE",
+      "terrainFog": "FALSE",
       "thickFog": "DEFAULT",
       "waterFog": "DEFAULT",
       "lavaFog": "DEFAULT",
