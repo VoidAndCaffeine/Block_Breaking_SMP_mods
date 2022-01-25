@@ -2,6 +2,7 @@
 percentage = 10
 [message]
 sendMessage = true
+messageColor = "§e"
 [sound]
 playSound = true
 soundLocation = "minecraft:block.note_block.pling"
