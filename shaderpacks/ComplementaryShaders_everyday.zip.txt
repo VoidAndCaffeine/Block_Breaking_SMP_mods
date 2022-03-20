@@ -1,4 +1,4 @@
-#Mon Jan 24 16:37:23 AKST 2022
+#Sun Mar 20 15:02:29 AKDT 2022
 shadowDistance=96.0
 SHADOW_FILTER=false
 LIGHT_MI=1.00
