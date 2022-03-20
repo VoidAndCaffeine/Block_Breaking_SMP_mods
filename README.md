@@ -134,16 +134,12 @@ Please Ignore any spelling/grammar errors here my brain is dead
     + Allows for render distances higher than what the server is configured for by cacheing chunks. Dissabled by default for performance reasons.
 * [Chat Heads](https://www.curseforge.com/minecraft/mc-mods/chat-heads)    License: Mozilla Public License v2
     + Ads players heads next to their name when they write in chat.
-* [Clear Skies](https://www.curseforge.com/minecraft/mc-mods/clear-skies)    License: GNU GPL v3
-    + removes the light layer of the skybox arround the horizion.
 * [Cloth Config API](https://www.curseforge.com/minecraft/mc-mods/cloth-config/files)    License: GNU GPL v3
     + api mod.
 * [Continuity](https://www.curseforge.com/minecraft/mc-mods/continuity)    License: GNU GPL v3
     + Allows for Optifine connected textures with sodium.
 * [Cull Leaves](https://www.curseforge.com/minecraft/mc-mods/cull-leaves)    License: MIT
     + Optimizes leaf rendering, makes trees look kinda auful without the better leaves resource pack
-* [Dashloader](https://www.curseforge.com/minecraft/mc-mods/dashloader)    License: GNU GPL v3
-    + Cashes the minecraft startup process on first launch, on the second and all after it is astonishingly quick to start.
 * [Enhanced Block Entities](https://www.curseforge.com/minecraft/mc-mods/enhanced-block-entities)    License: GNU GPL v3
     + Fixes the rendering of block entities (signs, chests, barrels, shulkers) so that they render like normal blocks. Also fixes the glow ink bug.
 * [Fabric Api](https://www.curseforge.com/minecraft/mc-mods/fabric-api)     License: Apache v2
