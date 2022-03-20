@@ -13,6 +13,9 @@
 		// This means that pushing the inventory or sorting the main inventory will not affect the hotbar and vice-versa.
 		// default: true
 		hotbar-scope: true
+		// Enables using armor/elytra items to swap them with the currently equipped item.
+		// default: true
+		enable-quick-armor-swapping: true
 	}
 	scrolling: {
 		// Enables scrolling of stacks
