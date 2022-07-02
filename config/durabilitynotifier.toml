@@ -1,5 +1,6 @@
 [general]
 percentage = 10
+checkArmor = false
 [message]
 sendMessage = true
 messageColor = "YELLOW"
