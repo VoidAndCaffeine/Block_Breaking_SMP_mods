@@ -112,20 +112,14 @@ If you run into any problem please open an issue, it is the best way to keep me 
 
 Please Ignore any spelling/grammar errors here my brain is dead
 
-* [Skin Layers 3D](https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d)     License: MIT
-    + Makes skins 3D rather than 2 2D layers, Im iffy on this one and usually have it dissabled.
 * [Better Third Person](https://www.curseforge.com/minecraft/mc-mods/better-third-person)     License: All Rights Reserved
     + Allows for better camera movement in 3rd person, definately cool.
 * [Craft Presence](https://www.curseforge.com/minecraft/mc-mods/craftpresence)    Lisence: MIT
     + Discord rich presence, whats not to love :p.
-* [DeathShot](https://github.com/MenschenToaster/DeathShot/releases)    License: MIT
-    + Automaticly screenshots your deathscreen to make it easier to find your death location.
 * [Durability Notifier](https://www.curseforge.com/minecraft/mc-mods/durability-notifier)    License: MIT
     + Like the Duraping Datapack but with some extra configurations and running client side.
 * [CIT Resewn](https://www.curseforge.com/minecraft/mc-mods/cit-resewn)    License: MIT
     + Adds extra texture pack support
-* [NoFog](https://www.curseforge.com/minecraft/mc-mods/nofog)     License: All Rights Reserved
-    + Dissables world fog, highly configurable, necicary if you are spending lots of time on the Nether roof.
 * [Animatica](https://www.curseforge.com/minecraft/mc-mods/animatica)    License: GNU GPL v2
     + Adds extra animated texture pack support
 * [AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin)    License: Public Domain (now that is an oddity, cool)
