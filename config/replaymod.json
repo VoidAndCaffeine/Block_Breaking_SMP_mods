@@ -6,7 +6,7 @@
     "recordingPath": "./replay_recordings/",
     "cachePath": "./.replay_cache/",
     "renderPath": "./replay_videos/",
-    "skipPostRenderGui": false,
+    "skipPostRenderGui": true,
     "askForOpenEye": true,
     "skipPostScreenshotGui": false,
     "fullBrightness": "replaymod.gui.settings.fullbrightness.gamma",
