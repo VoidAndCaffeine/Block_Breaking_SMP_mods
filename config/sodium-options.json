@@ -1,19 +1,19 @@
 {
   "quality": {
-    "weather_quality": "DEFAULT",
+    "weather_quality": "FANCY",
     "leaves_quality": "DEFAULT",
-    "enable_vignette": true
+    "enable_vignette": false
   },
   "advanced": {
     "arena_memory_allocator": "ASYNC",
     "allow_direct_memory_access": true,
     "enable_memory_tracing": false,
     "use_advanced_staging_buffers": true,
-    "cpu_render_ahead_limit": 3
+    "cpu_render_ahead_limit": 5
   },
   "performance": {
-    "chunk_builder_threads": 0,
-    "always_defer_chunk_updates": false,
+    "chunk_builder_threads": 8,
+    "always_defer_chunk_updates": true,
     "animate_only_visible_textures": true,
     "use_entity_culling": true,
     "use_particle_culling": true,

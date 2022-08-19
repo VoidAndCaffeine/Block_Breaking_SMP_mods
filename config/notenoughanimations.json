@@ -1,5 +1,5 @@
 {
-  "configVersion": 7,
+  "configVersion": 8,
   "animationSmoothingSpeed": 20.0,
   "holdingItems": [
     "minecraft:clock",
@@ -7,7 +7,8 @@
     "minecraft:compass",
     "minecraft:torch",
     "minecraft:lantern",
-    "minecraft:soul_torch"
+    "minecraft:soul_torch",
+    "minecraft:recovery_compass"
   ],
   "enableAnimationSmoothing": true,
   "enableInWorldMapRendering": true,

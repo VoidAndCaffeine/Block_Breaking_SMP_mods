@@ -47,7 +47,7 @@
 		// Sets whether to by default scroll items
 		// out of the creative menu.
 		// default: true
-		scroll-creative-menu-items: true
+		scroll-creative-menu-items: false
 		// Sets whether creative mode tabs can
 		// be switched by scrolling over them.
 		// default: true

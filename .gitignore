@@ -1,4 +1,5 @@
 bootstrap_log.txt
+data/*
 launcher/
 launcher_accounts.json
 launcher_cef_log.txt

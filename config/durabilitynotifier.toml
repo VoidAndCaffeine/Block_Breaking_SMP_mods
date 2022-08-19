@@ -1,5 +1,5 @@
 [general]
-percentage = 10
+percentage = 3
 checkArmor = false
 [message]
 sendMessage = true
