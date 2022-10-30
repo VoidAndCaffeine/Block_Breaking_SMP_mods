@@ -1,0 +1,9 @@
+{
+  "semanticVersion": "1.4.0",
+  "updateInfo": {
+    "en_us": "Iris 1.4 has released, with many new features for shader developers! Download it at: {link}"
+},
+  "modHost": "Modrinth",
+  "modDownload": "https://modrinth.com/mod/iris",
+  "installer": "https://irisshaders.net"
+}
