@@ -108,32 +108,43 @@ If you run into any problem please open an issue, it is the best way to keep me 
 <br />
 
 <!-- ACKNOWLEDGMENTS -->
+
+WORK IN PROGRESS, Please wait for the mods to be updated
+
 ## Mods
+##### Required
+* [Simple Voice Chat](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat)    License: All Rights Reserved (the source is public tho interestingly enough)
+    + In game voice chat, its probably the most important mod
+* [status]
 
-Please Ignore any spelling/grammar errors here my brain is dead
+##### Fabr
 
-* [Better Third Person](https://www.curseforge.com/minecraft/mc-mods/better-third-person)     License: All Rights Reserved
-    + Allows for better camera movement in 3rd person, definately cool.
-* [Craft Presence](https://www.curseforge.com/minecraft/mc-mods/craftpresence)    Lisence: MIT
-    + Discord rich presence, whats not to love :p.
-* [Durability Notifier](https://www.curseforge.com/minecraft/mc-mods/durability-notifier)    License: MIT
-    + Like the Duraping Datapack but with some extra configurations and running client side.
-* [CIT Resewn](https://www.curseforge.com/minecraft/mc-mods/cit-resewn)    License: MIT
-    + Adds extra texture pack support
+##### Optifine replacement
 * [Animatica](https://www.curseforge.com/minecraft/mc-mods/animatica)    License: GNU GPL v2
     + Adds extra animated texture pack support
+* [CIT Resewn](https://www.curseforge.com/minecraft/mc-mods/cit-resewn)    License: MIT
+    + Adds extra texture pack support
+* [Continuity](https://www.curseforge.com/minecraft/mc-mods/continuity)    License: GNU GPL v3
+    + Allows for Optifine connected textures with sodium.
+
+
+
 * [AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin)    License: Public Domain (now that is an oddity, cool)
     + Shows your saturation level as a gold border arround your hunger.
-* [Bobby](https://www.curseforge.com/minecraft/mc-mods/bobby)    License: GNU GPL v3
-    + Allows for render distances higher than what the server is configured for by cacheing chunks. Dissabled by default for performance reasons.
+* [Better Third Person](https://www.curseforge.com/minecraft/mc-mods/better-third-person)     License: All Rights Reserved
+    + Allows for better camera movement in 3rd person, definately cool.
+* [CEM]() License: 
 * [Chat Heads](https://www.curseforge.com/minecraft/mc-mods/chat-heads)    License: Mozilla Public License v2
     + Ads players heads next to their name when they write in chat.
 * [Cloth Config API](https://www.curseforge.com/minecraft/mc-mods/cloth-config/files)    License: GNU GPL v3
     + api mod.
-* [Continuity](https://www.curseforge.com/minecraft/mc-mods/continuity)    License: GNU GPL v3
-    + Allows for Optifine connected textures with sodium.
+* [Craft Presence](https://www.curseforge.com/minecraft/mc-mods/craftpresence)    Lisence: MIT
+    + Discord rich presence, whats not to love :p.
 * [Cull Leaves](https://www.curseforge.com/minecraft/mc-mods/cull-leaves)    License: MIT
     + Optimizes leaf rendering, makes trees look kinda auful without the better leaves resource pack
+* [Durability Notifier](https://www.curseforge.com/minecraft/mc-mods/durability-notifier)    License: MIT
+    + Like the Duraping Datapack but with some extra configurations and running client side.
+* [EmoteCraft]
 * [Enhanced Block Entities](https://www.curseforge.com/minecraft/mc-mods/enhanced-block-entities)    License: GNU GPL v3
     + Fixes the rendering of block entities (signs, chests, barrels, shulkers) so that they render like normal blocks. Also fixes the glow ink bug.
 * [Fabric Api](https://www.curseforge.com/minecraft/mc-mods/fabric-api)     License: Apache v2
@@ -142,36 +153,37 @@ Please Ignore any spelling/grammar errors here my brain is dead
     + Adds leafs that fall from trees.
 * [Ferrite Core](https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric)    License: MIT
     + Optimizes memmory usage
-* [Illuminations](https://www.curseforge.com/minecraft/mc-mods/illuminations)    License: GNU GPL v3
-    + adds fireflies and other light ambiance. also has pride 🏳️‍🌈 pet things for free (other donation rewards, see the site).
 * [Indium](https://www.curseforge.com/minecraft/mc-mods/indium)    License: Apache v2
     + api mod.
 * [Iris Shaders](https://www.curseforge.com/minecraft/mc-mods/irisshaders)    License: GNU GPL v3
     + ennables shaders with sodium.
 * [krypton](https://www.curseforge.com/minecraft/mc-mods/krypton)    License: GNU GPL v3
     + Optimizes networks connections and fixes some security vulnerablilites. should help with the random disconnections
-* [LambDynamicLights](https://www.curseforge.com/minecraft/mc-mods/lambdynamiclights)    License: MIT
-    + Adds dynamic lighting when holding light sources, ie. torches. DO NOT WRITE THE NAME WITH SPACES. idk why but thats what the forge page says 🤷 Dissabled by default for performance reasons.
 * [lazy DFU](https://www.curseforge.com/minecraft/mc-mods/lazydfu)    License: MIT
     + Optimizes game start, it delays the code that updates worlds from older versions to only start when needed. This means that loading old worlds is slower, but loading servers and new worlds are much quicker.
 * [Mod Menu](https://www.curseforge.com/minecraft/mc-mods/modmenu)    License: MIT
     + Ads a mod menu cause fabric dosent have one built in.
 * [Mouse Wheelie](https://www.curseforge.com/minecraft/mc-mods/mouse-wheelie)    License: Apache v2
     + adds some cool mouse wheel shortcuts for inventory management, check the forge page.
+* [No Chat Reports]
 * [Not Enough Animations](https://www.curseforge.com/minecraft/mc-mods/not-enough-animations)    License: MIT
     + adds some extra player animations, nice to have.
-* [Ok Zoomer](https://www.curseforge.com/minecraft/mc-mods/ok-zoomer)    License: MIT
-    + Ennables OptiFine zoom, Basicly required.
+* [Sodium Options]
 * [Replay Mod](https://github.com/ReplayMod/ReplayMod)    License: GNU GPL v3
     + I'm sure yall dont need me to explain this one. This one mod causes an astonishing amount of problems tho lol.
 * [Sodium Extra](https://www.curseforge.com/minecraft/mc-mods/sodium-extra)    License: GNU GPL v3
     + Adds extra sodium config options to bring optifines "eye candy" fetures to fabric.
+* [Replay compatable sodium]
 * [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium)    License: GNU GPL v3
     + Godly performance mod, 60fps to 300fps.
-* [sound Physics Remasterd](https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered)    License: GNU GPL v3
-    + Adds an interesting reverb/echo in caves, immersive.
-* [Simple Voice Chat](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat)    License: All Rights Reserved (the source is public tho interestingly enough)
-    + In game voice chat, its probably the most important mod
+
+* [WI zoom]
+
+* [Bobby](https://www.curseforge.com/minecraft/mc-mods/bobby)    License: GNU GPL v3
+    + Allows for render distances higher than what the server is configured for by cacheing chunks. Dissabled by default for performance reasons.
+* [LambDynamicLights](https://www.curseforge.com/minecraft/mc-mods/lambdynamiclights)    License: MIT
+    + Adds dynamic lighting when holding light sources, ie. torches. DO NOT WRITE THE NAME WITH SPACES. idk why but thats what the forge page says 🤷 Dissabled by default for performance reasons.
+
 <!--* []()    License: 
     + Adds -->
 
